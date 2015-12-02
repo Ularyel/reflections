@@ -1,0 +1,42 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    By comparing only the differences in two code, I will save a lot of time and the tiring process 
+    of debugging will become much easier with version control.
+    Also it can be used for the historic references to the old version of the project. 
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros are that I have to choose myself when to save, so i have more control.
+    It can be useful to avoid the long or small history of changes and have reasonable
+    amount to look through.
+    Con is that sometimes I might forget to save or when computer crashes autosave my be more helpful. 
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Become git is designed for programmers and for them it's necessary to track several fies together,
+     since most of the projects will include files which are interdependent on each other.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    You can use git log to see all the changes that occured to that file. When you want to 
+    compare to version of the file you use git diff and add IDs of the versions you want to compare.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    By having an ability to go back in older version and have a working version of project, 
+    it is easier to make changes that could potentially break the program. It also help you in finding
+    the bug which broke everything.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I want to use git for my project and find out how to use commit and checkout more clearly.
