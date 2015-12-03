@@ -1,0 +1,11 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When person initializes a repository, git adds hidden file which contains meta data, which itself
+contains the information about the changes maded to this file. The changes will only be saved after
+forlder has initilized, prior changes are not trackable by git.
+We need this to create version control for our own projects.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging area is there to help us prepare for the changes to be made, it helps us to decide what change we want to commit.
+It is also easier for user to add multiple files to commit.
