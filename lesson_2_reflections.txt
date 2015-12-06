@@ -21,10 +21,17 @@ Branches would help with creating the different versions of same projects with s
 to work on both version with branches. It also helps to keep logical seperation in project.
 
 How do the diagrams help you visualize the branch structure?
+
 With diagram I can see which commit is parent to previous one. I can understand when I am in detached head state and when
 my changes will not to saved to any branch.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
 Result of merging two branches together is creation of new master tip. We combine the changes of both branches,
 into one final commit. Representing it with diagram helps you to understand the relations between commits and 
 branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+pro is non-automatic merging is that we can have better control what final project will be. Programer will have
+to look for conflicts before merging to files rather than after merging. 
