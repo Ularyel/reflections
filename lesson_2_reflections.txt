@@ -13,4 +13,9 @@ It is also easier for user to add multiple files to commit.
 How can you use the staging area to make sure you have one commit per logical change?
 
 With staging area you can separate logical changes. First you add one logical change to staging area,
-and then you commit change, afterwards you add second logical change to staging area and commit it too
+and then you commit change, afterwards you add second logical change to staging area and commit it too.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches would help with creating the different versions of same projects with slight alteretion. It will be easier 
+to work on both version with branches. It also helps to keep logical seperation in project.
