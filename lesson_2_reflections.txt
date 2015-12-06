@@ -9,3 +9,8 @@ How is the staging area different from the working directory and the repository?
 
 staging area is there to help us prepare for the changes to be made, it helps us to decide what change we want to commit.
 It is also easier for user to add multiple files to commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+With staging area you can separate logical changes. First you add one logical change to staging area,
+and then you commit change, afterwards you add second logical change to staging area and commit it too
