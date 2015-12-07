@@ -13,3 +13,7 @@ Describe the differences between forks, clones, and branches. When would you use
 forks is used to alter the project of other developer and still give them credit for original work.
 clone is used to get project from github to your local machine, and branching is used for testing new features
 or creating slightly different version of original project.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+We can experiment with it before uploading it, thus make stable changes before we share it to public.
