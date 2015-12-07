@@ -7,3 +7,9 @@ Why might you want to always pull changes manually rather than having Git automa
 
 In case you are working on one feature and you do not want extra files added by other people in your project.
 It can create confusion and software might not compile.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+forks is used to alter the project of other developer and still give them credit for original work.
+clone is used to get project from github to your local machine, and branching is used for testing new features
+or creating slightly different version of original project.
